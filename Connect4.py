@@ -161,7 +161,7 @@ class HumanPlayer:
 
 
 class StupidMachinePlayer:
-    """Defines the RetardedMachinePlayer class. This AI will just go anywhere at random.
+    """Defines the StupidMachinePlayer class. This AI will just go anywhere at random.
     Attr: symbol
     Name: Forrest
     """
